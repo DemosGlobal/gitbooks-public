@@ -31,7 +31,7 @@ The transition from v1 to v2 includes several key improvements:
 1. User Experience (UX) Improvements: 10x improvements to the user interface and overall experience to make it more intuitive and user-friendly.
 2. $DEM Incentives & Privileges: Introducing new incentives and privileges for $DEM token holders to encourage participation and engagement.
 3. Treasury & Runway: Financial backing and implementation of a more sustainable financial model to ensure the project's long-term viability.
-4. &#x20;Clear Vision: Awell-articulatedd, clear vision for DEMOS, emphasizing the mission of Securing Human Integrity through the Sybil Resistance product set.
+4. &#x20;Clear Vision: A well-articulated, clear vision for DEMOS, emphasizing the mission of Securing Human Integrity through the Sybil Resistance product set.
 5. Alignment of Community: Utilization of incentives, revenue, and DAO structure to activate community members as productive ambassadors.
 6. Improved Business Model: Introduction of step-up product offerings and SaaS subscription models to enable large scale and higher-margin revenue opportunities.
 7. Product Capabilities: Expansion of the product set to support a step-up set of Sybil Resistance and Bot-Proofing solutions.
