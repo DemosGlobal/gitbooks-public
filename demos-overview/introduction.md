@@ -1,7 +1,3 @@
----
-description: Intro do Demos Global
----
-
 # Introduction
 
 Demos empowers the Web3 space with secure, user-friendly Sybil Resistance solutions, fostering innovation and equity in the digital world.
