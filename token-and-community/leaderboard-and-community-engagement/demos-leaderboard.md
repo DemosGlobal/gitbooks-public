@@ -2,13 +2,13 @@
 
 Demos offers a maximally gamified community engagement program through its novel leaderboard mechanism.
 
-When users do good work in the Demos community, such as refer new sign-ups and project integrations, they begin to receive points. They may also receive points doing some combination of the following activities:
+When users do promote Demos to the community, such as referring new sign-ups and project integrations, they begin to receive points. They may also receive points doing some combination of the following activities:
 
 * Voting in DAO governance
 * Performing micro-work for the DAO
 * Participation in community events and promotions
 
-Users can also qualify for points through their existing veDEM membership NFTs. This drives further gamification that gives community evangelists the choice between prioritize their token holdings or their engagement with the project itself.
+Users can also qualify for points through their existing veDEM membership NFTs. This drives further gamification that gives community champions the choice between prioritize their token holdings or their engagement with the project itself.
 
 ### Leaderboard Mechanics
 
@@ -16,7 +16,7 @@ Activity performed by users is tracked on the [Demos leaderboard](https://demos.
 
 Both types of campaigns are situated competitively, where participation is ranked and scored by factors such as timing (i.e., First to test a Demos app), volume (i.e., most OnlyMeID referrals), or quality (i.e., best-performing Social Media posts).
 
-After these campaigns conclude, top performers earn **badges**. Badges have some value on the Demos Leaderboard that corresponds to an absolute number of points and/or benefits that will help users earn more points in the future.
+After these campaigns conclude, top performers earn **badges**. Badges have value on the Demos Leaderboard that corresponds to an absolute number of points and/or benefits that will help users earn more points in the future.
 
 So many campaigns are bundled into **Seasons.** At the end of the season, all user activity is compiled according to the badges earned, and those users are ranked into levels**.**
 

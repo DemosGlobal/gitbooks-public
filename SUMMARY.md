@@ -23,7 +23,7 @@
   * [📝 Overview](onlymeid/overview/README.md)
     * [Introduction](onlymeid/overview/introduction.md)
     * [Functionality](onlymeid/overview/functionality.md)
-    * [Usecases](onlymeid/overview/usecases.md)
+    * [Use-Cases](onlymeid/overview/use-cases.md)
     * [Unique Selling Points](onlymeid/overview/unique-selling-points.md)
   * [🛣 Roadmap](onlymeid/roadmap.md)
 * [Appendix](appendix/README.md)
