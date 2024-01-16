@@ -27,6 +27,7 @@
     * [Unique Selling Points](onlymeid/overview/unique-selling-points.md)
   * [🛣 Roadmap](onlymeid/roadmap.md)
 * [Appendix](appendix/README.md)
+  * [Branding Kit](appendix/branding-kit.md)
   * [Demos Motivation](appendix/demos-motivation/README.md)
     * [Demos Motivation](appendix/demos-motivation/demos-motivation.md)
   * [Proof of Existence](appendix/proof-of-existence/README.md)
