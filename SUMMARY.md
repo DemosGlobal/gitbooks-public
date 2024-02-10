@@ -32,3 +32,6 @@
     * [Demos Motivation](appendix/demos-motivation/demos-motivation.md)
   * [Proof of Existence](appendix/proof-of-existence/README.md)
     * [Proof of Existence](appendix/proof-of-existence/proof-of-existence.md)
+* [⚙️How to Section](how-to-section/README.md)
+  * [OnlyMeID Enrollment Process](how-to-section/onlymeid-enrollment-process/README.md)
+    * [Enrollment URL \[Polygon\]](https://polygon.demos.global)
