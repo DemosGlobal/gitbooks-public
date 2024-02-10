@@ -2,7 +2,7 @@
 description: >-
   One Solution. Infinite Possibilities Unlock a world of secure, user-centric
   experiences
-cover: .gitbook/assets/TwitterHeader1.2.png
+cover: .gitbook/assets/DemosIsBorn.jpg
 coverY: 0
 layout:
   cover:
