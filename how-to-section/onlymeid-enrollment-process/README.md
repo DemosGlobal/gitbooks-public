@@ -10,6 +10,6 @@ description: >-
 
 ***
 
-### Tutorial on how to enroll, recorded on an earlier version on Goerli Testnest&#x20;
+### Introduction to Demos Enrollment process:&#x20;
 
-{% embed url="https://drive.google.com/file/d/1En6qKPqQtkx6DdrX9Vdex4pCHDJu0Gn8/view?usp=drive_link" %}
+{% embed url="https://www.loom.com/share/51ba3d77eda446c89320a8374c00b2c1?sid=c932fbbf-e26d-4808-9ce9-89ee1cef9c96" %}
