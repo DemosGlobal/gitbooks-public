@@ -27,7 +27,9 @@ _Examples_
 
 {% embed url="https://app.rubic.exchange/?fromChain=ETH&toChain=BLAST&from=ETH&to=ETH" %}
 
-#### ![](<../.gitbook/assets/image (1).png>)**ETH > Matic token \[Swap & Bridge]**
+#### ![](<../.gitbook/assets/image (1).png>)
+
+#### **ETH > Matic token \[Swap & Bridge]**
 
 Swap ETH to Matic via ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 
