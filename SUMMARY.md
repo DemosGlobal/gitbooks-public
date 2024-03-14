@@ -35,4 +35,4 @@
 * [⚙️How to Section](how-to-section/README.md)
   * [OnlyMeID Enrollment Process](how-to-section/onlymeid-enrollment-process/README.md)
     * [Enrollment URL \[Polygon\]](https://polygon.demos.global)
-  * [Token Bridge Guide & add Chains to wallet.](how-to-section/token-bridge-guide-and-add-chains-to-wallet..md)
+  * [Token Bridge Guide & Add Chains to Wallet](how-to-section/token-bridge-guide-and-add-chains-to-wallet.md)
