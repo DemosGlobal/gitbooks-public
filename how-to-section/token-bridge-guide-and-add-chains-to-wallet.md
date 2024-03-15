@@ -2,7 +2,9 @@
 description: Quick guide on how to bridge tokens and add network chains
 ---
 
-# Token Bridge Guide & add Chains to wallet.
+# Token Bridge Guide & Add Chains to Wallet
+
+<figure><img src="../.gitbook/assets/Bridge.png" alt=""><figcaption></figcaption></figure>
 
 ### Demos currently supports.
 
