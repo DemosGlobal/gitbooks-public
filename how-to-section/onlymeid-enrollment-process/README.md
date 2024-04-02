@@ -1,14 +1,22 @@
 ---
 description: >-
   One pager on the high-level steps to enroll Demos OnlyMeID dApp and mint an
-  OnlyMeID token Enrollment URL: https://polygon.demos.global
+  OnlyMeID token Enrollment URL: https://app.demos.global
 ---
 
 # OnlyMeID Enrollment Process
 
-<figure><img src="../../.gitbook/assets/Demos_Enrollment_Flow.drawio.png" alt=""><figcaption></figcaption></figure>
-
 ***
+
+<div>
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Demos_Enrollment_Flow_v1.2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Introduction to Demos Enrollment process:&#x20;
 
