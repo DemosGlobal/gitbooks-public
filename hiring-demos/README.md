@@ -1,5 +1,21 @@
 ---
 description: 👉 DEMOS NEEDS YOU 👈
+cover: ../.gitbook/assets/BannerDemos1.2.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ✨Hiring @ Demos✨
