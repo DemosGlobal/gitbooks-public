@@ -25,7 +25,7 @@ description: 'Role: Social Liaison Content Manager'
 2. Basic documentation creation.
 3. Grammarly Application.
 4. Using and posting to social channels, Twitter, Discord & Telegram.
-5. Utilzing Google Docs / Sheets.
+5. Utilizing Google Docs / Sheets.
 
 Nice to have&#x20;
 
