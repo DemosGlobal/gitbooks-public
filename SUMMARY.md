@@ -37,6 +37,7 @@
     * [Enrollment URL](https://app.demos.global)
   * [Token Bridge Guide & Add Chains to Wallet](how-to-section/token-bridge-guide-and-add-chains-to-wallet.md)
 * [✨Hiring @ Demos✨](hiring-demos/README.md)
+  * [📡Business Development Associate](hiring-demos/business-development-associate.md)
   * [📝Social Liaison Content Manager](hiring-demos/social-liaison-content-manager.md)
   * [⚙️Applications/Frontend/Software (non-solidity)](hiring-demos/applications-frontend-software-non-solidity.md)
   * [🔩Full Stack Developer](hiring-demos/full-stack-developer.md)

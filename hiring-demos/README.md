@@ -38,7 +38,11 @@ We encourage you to reach out and let us know how you could fit into the team to
 
 \-          Link to LinkedIn and/or Twitter
 
-#### -         <mark style="color:yellow;">Answers to these questions:</mark>
+\-          Onchain reputation score (Debank, DegenScore, or Nomis) on **OnlyMeID Authenticated** wallet
+
+
+
+\-         <mark style="color:yellow;">Answers to these questions:</mark>
 
 1\) Why are you the best candidate to join Demos Global Team?
 
