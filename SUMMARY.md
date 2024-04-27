@@ -3,7 +3,7 @@
 * [Demos Global](README.md)
 * [Demos Overview](demos-overview/README.md)
   * [Introduction](demos-overview/introduction.md)
-  * [Sybil Attacks and Sybil Resistance](demos-overview/sybil-attacks-and-sybil-resistance.md)
+  * [Understanding Sybil Attacks and the Need for Robust Sybil Resistance](demos-overview/understanding-sybil-attacks-and-the-need-for-robust-sybil-resistance.md)
   * [Biometric Proof of Personhood](demos-overview/biometric-proof-of-personhood.md)
 * [Token and Community](token-and-community/README.md)
   * [🏆 Leaderboard and Community Engagement](token-and-community/leaderboard-and-community-engagement/README.md)
