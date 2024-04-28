@@ -10,6 +10,9 @@ description: Quick guide on how to bridge tokens and add network chains
 
 * Polygon Mainnet
 * Blast Mainnet
+* Base Mainnet
+
+
 
 ## **Platforms to use for bridging.**
 
@@ -25,13 +28,13 @@ Rubic Exchange can swap & bridge assets through simple choices on tokens and des
 
 _Examples_
 
-#### **Bridge ETH from ETH Mainnet to Blast Mainnet**
+#### <mark style="color:yellow;">**Bridge ETH from ETH Mainnet to Blast Mainnet**</mark>
 
 {% embed url="https://app.rubic.exchange/?fromChain=ETH&toChain=BLAST&from=ETH&to=ETH" %}
 
 #### ![](<../.gitbook/assets/image (1).png>)
 
-#### **ETH > Matic token \[Swap & Bridge]**
+#### <mark style="color:yellow;">**ETH > Matic token \[Swap & Bridge]**</mark>
 
 Swap ETH to Matic via ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 
@@ -39,13 +42,29 @@ Swap ETH to Matic via ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 Swap ETH to Matic via ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 {% endembed %}
 
-#### **USDC > Matic Token \[Swap & Bridge]** Swap USDC to Matic with a ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
+#### <mark style="color:yellow;">**USDC > Matic Token \[Swap & Bridge]**</mark> Swap USDC to Matic with a ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 
 {% embed url="https://app.rubic.exchange/?fromChain=ETH&toChain=POLYGON&from=USDC&to=MATIC" %}
 Swap USDC to Matic with a ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 {% endembed %}
 
 ### ![](<../.gitbook/assets/image (2).png>)
+
+#### <mark style="color:yellow;">**ETH Mainnet > Base Mainnet**</mark>
+
+_Examples_
+
+#### **Bridge ETH from ETH Mainnet to Base Mainnet**
+
+{% embed url="https://app.rubic.exchange/?from=ETH&fromChain=ETH&to=ETH&toChain=BASE" %}
+URL for ETH mainnet to ETH on Base Mainnet conversion
+{% endembed %}
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>ETH Mainnet to Base Mainnet</p></figcaption></figure>
+
+</div>
 
 ### Additional DEX
 
