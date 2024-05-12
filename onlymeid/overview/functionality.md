@@ -1,38 +1,56 @@
 # Functionality
 
-OnlyMeID packages several "checks" for users to perform to verify themselves and pass that verification on-chain.
+OnlyMeID provides a robust framework for identity verification within Web3 environments, harnessing biometric data to ensure the uniqueness and authenticity of each user. This system facilitates secure and trustworthy user interactions by linking off-chain biometric verification with on-chain attestations, creating a seamless bridge between real-world identity and digital presence.
 
-**Enrollment**
+#### <mark style="color:yellow;">**Enrollment Process**</mark>
 
-When a user first engages with OnlyMeID, they perform an enrollment. The enrollment consists of several steps:
+The enrollment process is the initial step for a user to validate their identity using OnlyMeID. It involves several critical steps designed to establish and confirm the user's unique human identity:
 
-1. User connects their wallet and signs a message to confirm ownership of that wallet.
-2. User provides their live Selfie, which is&#x20;
-   1. Vetted for authenticity.
-   2. Compared against other enrollments for uniqueness.
-3. After successful enrollment, the user is granted permission to mint their MeID on-chain, which attests to their enrollment as a unique human.
+1. <mark style="color:yellow;">Wallet Connection and Ownership Confirmation:</mark>
 
-Enrollment affirms unique human-ness of users who interface.
+* Users start by connecting their Web3 wallet to the OnlyMeID platform.
+* They then sign a message to confirm ownership of the connected wallet, establishing a link between their digital wallet and their physical identity.
 
-**Verification**
 
-After Enrollment, users may return to OnlyMeID to verify their enrollment. The verification process looks similar to the enrollment:
 
-1. User connects wallet with existing OnlyMeID enrollment.
-2. The user provides live selfie, which is
-   1. Vetted for authenticity.
-   2. Compared against user's prior enrollment/verification for similarity matching.
-3. After successful verification, the user is granted permission to update their MeID enrollment on-chain with a timestamp attesting to their last sign-in.
+2. <mark style="color:yellow;">Biometric Verification:</mark>
 
-Verification offers a step-up Proof of Liveness attestation. High-stakes integrations can use the verification to prevent users from abusing their offerings through OTC account transfer.
+* Users provide a live selfie during the enrollment process.
+* This selfie is vetted for authenticity to ensure it is not tampered with or digitally altered.
+* It is also compared against other enrollments to confirm the uniqueness of the user, preventing duplicate identities within the system.
 
-**Authentication**
+3. <mark style="color:yellow;">On-Chain Identity Minting:</mark>
 
-Separate from Enrollment and Verification, OnlyMeID will allow users to authenticate themselves as provably human. Again, it's a similar process:
+* Upon successful enrollment, users are granted permission to mint their MeID on-chain.
+* This MeID token acts as a digital attestation of their enrollment and unique human identity, securely stored on the blockchain.
 
-1. User connects their wallet and signs a message to confirm ownership of that wallet.
-2. User provides live selfie, which is vetted for authenticity.
-3. After successful authentication, user is granted permission to attest to their authentication on-chain.
+The enrollment process not only verifies but also affirms the 'unique human-ness' of each user, integrating their biometric data with blockchain technology to create a reliable identity marker.
 
-Authentication is a no-account alternative use-case. It does not affirm that a user is unique from all others, just that they are a real user (as opposed to a bot). It is useful for highly comptitive integrations, as a guarantee that anyone interacting is a real person - not a bot network.
+#### <mark style="color:yellow;">**Verification Process**</mark>
+
+Post-enrollment, users can engage with the OnlyMeID system to periodically verify their identity. This verification process is crucial for maintaining the integrity and currency of user identities within the system:
+
+1. <mark style="color:yellow;">Reconnection and Identity Confirmation:</mark>
+
+* Users reconnect their wallet associated with an existing OnlyMeID enrollment.
+* This step ensures that the digital identity is still controlled by the same user.
+
+2. <mark style="color:yellow;">Live Selfie Verification:</mark>
+
+* Users provide a new live selfie, which is vetted for authenticity similarly to the enrollment process.
+* The new selfie is compared against previous enrollment and verification records for similarity matching, confirming the user’s consistent identity over time.
+
+3. <mark style="color:yellow;">On-Chain Verification Update:</mark>
+
+* Following successful verification, users are allowed to update their OMeID enrollment on-chain.
+* A timestamp is added to their on-chain record, attesting to the latest sign-in and verification, enhancing the security and relevance of the identity verification.
+
+This verification process serves as a 'Proof of Liveness' attestation, crucial for high-stakes integrations where real-time identity confirmation is necessary to prevent misuse, such as through over-the-counter (OTC) account transfers.
+
+<mark style="color:yellow;">**High-Stakes Integration**</mark>
+
+OnlyMeID is particularly valuable for environments requiring high levels of security and identity assurance. It prevents the abuse of services by ensuring that all accounts are tied to a verified and continually updated biometric identity, safeguarding against unauthorized account transfers and enhancing overall system integrity.
+
+\
+
 

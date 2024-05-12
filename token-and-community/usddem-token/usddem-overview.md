@@ -1,12 +1,16 @@
 # $DEM Overview
 
-Demos represent a tokenized product stack, starting with OnlyMeID, which offers a universal solution for web3 projects to “human gate” certain aspects of their project against sybil attacks as they see best fit.
+## **Comprehensive Token Utility**
 
-Leveraging lessons learned from the broader crypto space, Demos is designed to encompass a model that satisfies all of the following simultaneously:
+The $DEM token represents a cornerstone of the DEMOS product ecosystem, beginning with OnlyMeID, which provides a universal solution for Web3 projects to secure their operations against Sybil attacks.
 
-1. Eloquently incentivize community members, regardless of capital, to perform well-defined, concrete, good work that simultaneously benefits both individual and protocol.
-2. &#x20;Distinguish a scaling, a future-proof revenue model that supports a defined, focused vision for the team and project.
-3. &#x20;Protect the rights and interests of passive holders who cannot dedicate energy to the project but continue to support it with their token holdings and confidence in the project and community.
-4. &#x20;Establish discrete governance and administrative responsibilities for token holders from the project's inception.
+The design principles behind $DEM are aimed at achieving the following goals simultaneously:
 
-In doing so, Demos unlocks a model that grows and succeeds directly with the confidence and evangelism of token holders. Due to the nature of Demos and OnlyMeID, our ability to succeed hinges entirely on the ability of community members to extend our network. Our token and broader project mechanics help to maintain a positive relationship where token holders are incentivized personally for the excellent work required of them to succeed.
+* Broad Incentivization: Encouraging community members, irrespective of their investment capacity, to undertake valuable, clearly defined tasks that benefit both the individual and the protocol.
+* Scalable Revenue Model: Supporting a robust and adaptable economic framework that aligns with the project's long-term vision.
+* Protection for Passive Holders: Safeguarding the interests of supporters who are less actively involved but sustain the project with their capital and trust.
+* Governance and Administration: Establishing clear roles and responsibilities for token holders from the outset, ensuring effective oversight and decision-making.
+
+As a result, the $DEM token system is designed to thrive on community confidence and advocacy, essential for DEMOS's ongoing success and scalability.
+
+\

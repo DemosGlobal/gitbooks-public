@@ -1,20 +1,23 @@
 # Biometric Authentication
 
-OnlyMeID is a Biometric Proof of Personhood protocol. Users input biometric indicators (in the form of user selfie) which are assessed to confirm the user's status as a unique individual.
+OnlyMeID utilizes Biometric Proof of Personhood protocol, leveraging advanced biometric indicators to authenticate users uniquely and securely. Here's a closer look at the process and its significance:
 
-The enrollment process requires a user to orient themselves within the selfie interface and supply their inputs using their device camera. The user must follow the interface's instructions which request them to turn their head from side to side. The entire process takes several seconds.
+1. <mark style="color:yellow;">**Enrollment Process:**</mark> Users engage with a selfie interface, following prompts that guide them through a series of head movements. This interaction, captured via the device's camera, is processed in seconds, showcasing the efficiency and user-friendliness of the system.
+2. <mark style="color:yellow;">**AI Assessment:**</mark> The core of OnlyMeID's authentication process lies in its AI's ability to analyze numerous facial indicators. This AI generates a summary output hash, providing a “score” that evaluates the user's uniqueness and authenticity.
+3. <mark style="color:yellow;">**Dual Tests for Authentication:**</mark>
 
-In those several seconds, an AI tuned to human input performs several tasks:
+* Proof of Uniqueness: Confirms the user's input as genuine and distinct from any previous entries, ensuring each enrollment is tied to a unique individual.
+* Proof of Liveness: Available for previously enrolled users, this test verifies ongoing authenticity by matching new input against existing records, akin to FaceID technology.
+* Proof of Humanity: A simplified verification that doesn't require an account but confirms the user is not a bot, similar to CAPTCHA services.
 
-1. Numerous "indicators" that make up the individual's facial appearance are polled.
-2. All of these indicators combined produce a summary output hash. This "score" provides confidence intervals on the uniqueness and human-ness of the user input.
-3. This score fills two tests. The first is whether or not the input is a real, live human (as opposed to a screenshot, artificial input, or non-realtime recording).
-4. The second test verifies whether or not the algorithm's output "score" is unique from all others, and therefore the individual is enrolling for the first time.
+#### <mark style="color:yellow;">**Technical Enhancements and User Privacy**</mark>
 
-If the user passes both tests, their enrollment is successful and they may continue with the process. If the user fails, they may be prompted to retry or rejected altogether after too many failures.
+The integration of these detailed biometric authentication processes with OnlyMeID's latest technical updates significantly bolsters the platform's security and accessibility:
 
-Beyond the original enrollment, which corresponds to a **Proof of Uniqueness**, users may interact with OnlyMeID to perform an authentication corresponding to Proof of Liveness or Proof of Humanity. In both instances, the user biometric input is the same, but the "tests" taken against that input is different in each setting:
+* <mark style="color:yellow;">**Multi-Chain Support:**</mark> Expanding OnlyMeID across various blockchain platforms enhances user experience and interoperability, allowing for seamless verification across the Web3 ecosystem.
+* <mark style="color:yellow;">**Permissionless Purge:**</mark> This feature has been refined for greater user control, allowing individuals to manage their data with enhanced privacy measures.
+* <mark style="color:yellow;">**Advanced Security Protocols:**</mark> The introduction of new encryption standards and data protection protocols ensures the highest level of security for user biometric data.
 
-The **Proof of Liveness** verification is available to users who have already signed up. This verification confirms that the user engaging continues to be the same individual operating the authenticated wallet address. Unlike the original enrollment, this verification will match the resulting "score" against the user's previous score to confirm whether or not it is the same individual. This is a similar flow to FaceID login offered on the iPhone.
+This comprehensive outline of OnlyMeID's biometric authentication process underscores DEMOS' commitment to innovation, security, and user empowerment, paving the way for a safer and more interconnected Web3.
 
-The **Proof of Humanity** verification is not tied to a user account or requires an original enrollment. This process is a more simplified authentication versus the original enrollment. This instance only confirms that the connected user is a real person (versus a bot). Think of it similarly to a CAPTCHA service.
+\

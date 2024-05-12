@@ -1,39 +1,57 @@
 # Demos Leaderboard
 
-Demos offers a maximally gamified community engagement program through its novel leaderboard mechanism.
+DEMOS introduces an innovative community engagement program through its dynamic leaderboard system. This mechanism gamifies engagement by rewarding users for various activities that enhance their involvement and loyalty to the DEMOS ecosystem.
 
-When users do promote Demos to the community, such as referring new sign-ups and project integrations, they begin to receive points. They may also receive points doing some combination of the following activities:
+Activities eligible for points include:
 
-* Voting in DAO governance
-* Performing micro-work for the DAO
-* Participation in community events and promotions
-
-Users can also qualify for points through their existing veDEM membership NFTs. This drives further gamification that gives community champions the choice between prioritize their token holdings or their engagement with the project itself.
+* Promoting DEMOS by referring new user sign-ups and project integrations.
+* Voting in DAO governance.
+* Contributing micro-work for the DAO.
+* Participating in partner events and promotions.
+* Engaging in special DEMOS activities and offerings.
+* Holding veDEM membership NFTs, which further gamify engagement, allowing members to focus on token holdings or active project involvement.
 
 ### Leaderboard Mechanics
 
-Activity performed by users is tracked on the [Demos leaderboard](https://demos.global/leaderboard). This leaderboard exists as a "meta-aggregator" of internal and external campaigns corresponding to the Demos ecosystem. **Internal campaigns** are set up by Demos itself and may correspond to internal DAO activities like app testing, DAO governance, community participation, and so on. **External campaigns** take advantage of questing providers or otherwise engagement programs across defined "Sprints". This activity could look like affiliate/referral programs, social engagement programs, etc.&#x20;
+User activities are meticulously tracked via the DEMOS leaderboard, serving as a meta-aggregator for both internal and external campaigns within the DEMOS ecosystem:
 
-Both types of campaigns are situated competitively, where participation is ranked and scored by factors such as timing (i.e., First to test a Demos app), volume (i.e., most OnlyMeID referrals), or quality (i.e., best-performing Social Media posts).
+* Internal Campaigns: These include DAO activities like app testing, community participation, and governance, created and managed by DEMOS itself.
+* External Campaigns: DEMOS partners with leading questing providers and engagement platforms such as Postmint, GalXE, and Polygon. These external campaigns operate over defined "Sprints," including activities like affiliate/referral programs and social media engagements, broadening the scope and impact of user participation
 
-After these campaigns conclude, top performers earn **badges**. Badges have value on the Demos Leaderboard that corresponds to an absolute number of points and/or benefits that will help users earn more points in the future.
+### <mark style="color:yellow;">**Reward Structures and Criteria**</mark>
 
-So many campaigns are bundled into **Seasons.** At the end of the season, all user activity is compiled according to the badges earned, and those users are ranked into levels**.**
+#### Engaged User Contributions
 
-The level that a user achieves at the end of the season corresponds to their rewards for that season as well as perks, privileges, and bonuses throughout the next season.
+* User contributions are scored based on timing, volume, and quality. For instance, points can be earned for being the first to test a Demos app, generating the most OnlyMeID referrals, or creating high-quality social media posts. Successful participants earn badges after campaign conclusions, translating into points and future leaderboard benefits.
 
-### Leaderboard Incentives
+<mark style="color:yellow;">**Seasonal Competitions and Incentives**</mark>
 
-Individuals receive increasing access to incentives as they earn more points and reach higher levels. These incentives include (from least to most exclusive):
+Campaigns are grouped into Seasons, with points accrued translating into unique rewards and DEMOS Leaderboard points at each season's end. As users climb the leaderboard, they unlock increasing incentives, including:
 
-* First-Party and Partner Perks (ex: Whitelist)
-* Physical rewards (conference tickets, meetups, Demos swag)
-* $DEM payouts/airdrops
-* DAO “Executive” Status
-* Revenue Share
+* First-party and partner perks like whitelist spots.
+* Physical rewards such as conference tickets and DEMOS merchandise.
+* Monetary rewards including $DEM payouts and airdrops.
+* Exclusive DAO “Executive” Status.
+* Revenue sharing opportunities are reserved for the top-tier participants as the most significant reward.
 
-### Top-Heavy Skew
+By integrating these mechanics, Demos not only fortifies its ecosystem against Sybil attacks but also fosters a robust, engaged community that contributes to the project's success and resilience.
 
-Revenue share, as the most coveted incentive, is gated to only the very top (10-20) individuals. This is designed to maximally reward the most productive community members (large token lockers + heavyweight affiliates).
+### &#x20;<mark style="color:yellow;">Leaderboard Incentives</mark>
 
-By gamifying and gating these incentives to the top achievers, Demos can reduce the actual units of revenue and tokens airdropped while still offering a very enticing payout per user for those eligible.
+<mark style="color:yellow;">**Progressive Rewards System**</mark>
+
+As members of the DEMOS community accumulate points on the leaderboard, they unlock access to increasingly exclusive incentives, structured as follows:
+
+* First-Party and Partner Perks: Early access to new features and exclusive whitelist opportunities.
+* Physical Rewards: Tickets to conferences, meetups, and branded Demos merchandise.
+* $DEM Payouts and Airdrops: Direct monetary rewards distributed as $DEM tokens.
+* DAO “Executive” Status: Special status that offers additional governance powers and exclusive insights into project developments.
+* Revenue Sharing: The most prestigious reward, reserved for top-tier community members, includes a share of project revenues, emphasizing the value placed on significant contributors.
+
+<mark style="color:yellow;">**Top-Heavy Reward Distribution**</mark>
+
+The revenue share, designed as the ultimate incentive, is exclusively available to the highest achievers on the leaderboard. This selective distribution ensures that those who contribute most substantially—via large token holdings or influential affiliate actions—receive the greatest rewards.
+
+By structuring incentives this way, DEMOS maximizes the return for community members who deliver the most value, thereby fostering a highly motivated and productive community.
+
+\
