@@ -12,11 +12,11 @@ There are two parts to the Demos Enrollment process
 
 2\)      <mark style="color:yellow;">**OnlyMeID Token**</mark> | After enrolling off-chain, mint a MeID token on-chain.
 
-3\)      <mark style="color:yellow;">**Proof of Personhood**</mark> | When active, the option to ‘verify’ on-chain to verify your wallet ownership. The timestamp will be displayed in the Demos UI (dApp)
+3\)      <mark style="color:yellow;">**Proof of Liveness**</mark> | When active, the option to ‘verify’ on-chain to verify your wallet ownership. The timestamp will be displayed in the Demos UI (dApp)
 
 &#x20;
 
-<mark style="color:yellow;">**Re-verification**</mark>, or officially ‘[<mark style="color:yellow;">**Proof of Personhood’ (POP)**</mark>](../../demos-overview/biometric-proof-of-personhood.md), is a service in which Demos provide continued protocol integrity. Demos Global, to date, is unique in providing the option for continued verification, which is recorded on-chain and can be used for many outcomes.
+<mark style="color:yellow;">**Re-verification**</mark>, or officially ‘[<mark style="color:yellow;">**Proof of**</mark> ](../../demos-overview/biometric-proof-of-personhood.md)<mark style="color:yellow;">**Liveness'**</mark>, is a service in which Demos provide continued protocol integrity. Demos Global, to date, is unique in providing the option for continued verification, which is recorded on-chain and can be used for many outcomes.
 
 \-          Periodic check-ins to accumulate points or rewards requested by a protocol ie Hemi
 
