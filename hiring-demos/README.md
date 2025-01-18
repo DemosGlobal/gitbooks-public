@@ -1,5 +1,6 @@
 ---
 description: 👉 DEMOS NEEDS YOU 👈
+hidden: true
 cover: ../.gitbook/assets/BannerDemos1.2.png
 coverY: 0
 layout:
