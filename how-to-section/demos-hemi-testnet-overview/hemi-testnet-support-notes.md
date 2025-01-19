@@ -6,7 +6,7 @@ description: Details of issues raised by Discord Users
 
 ### <mark style="color:yellow;">High level Overview</mark>
 
-The option to delete your enrollment and burn your token will provide the following.&#x20;
+Deleting your enrollment and burning your token will provide the following.&#x20;
 
 **\[1st Stage]** Delete MeID Token on all chains | From 3 days of enrolling, a wallet can firstly ‘burn’ or delete their MEID token 1st. The token was minted with a face after enrollment. **{Warning , 3 day timout to burn a MeID token}**&#x20;
 
@@ -14,11 +14,11 @@ The option to delete your enrollment and burn your token will provide the follow
 
 **\[3rd Stage]** Purging account data | When stages 1 & 2 are complete, a message will appear advising to return after 24 hours, when the enrollment will be deleted from the system. The message will display a countdown. A new person cannot enrol on the wallet until the timeout has been completed. When steps 1 and 2 are complete, the enrollment and token have been deleted, and timeout \[stage 3] has timed out, that wallet is no longer owned or associated with DEMOS MeID system or contract. **Very Important Note: If a wallet has been tagged as a DUPLICATE, the DEMOS team need to unflag the wallet manually; otherwise, the wallet will not be usable.**&#x20;
 
-When steps 1,2 & 3 are complete, anyone with access to that wallet can enroll again and mint a token. It is important to note that some users may not have minted a MeID token and want to change wallets. If true, the person must follow step 2 to delete their enrollment.
+When steps 1, 2, and 3 are complete, anyone with access to that wallet can enroll again and mint a token. It is important to note that some users may not have minted a MeID token and want to change wallets. If this is true, the person must follow step 2 to delete their enrollment.
 
-### <mark style="color:yellow;">Steps to burn/delete your enrollment & MEID token</mark>
+### <mark style="color:yellow;">\[1] Steps to burn/delete your enrollment & MEID token</mark>
 
-Prior Checks **Ensure the wallet has testnet ETH available in wallet to burn MeID token**&#x20;
+Prior Checks: **Ensure the wallet has testnet ETH available in wallet to burn MeID token**&#x20;
 
 a) Go to url [https://app.demos.global/dashboard/hemitest](https://app.demos.global/dashboard/hemitest)&#x20;
 
@@ -40,11 +40,11 @@ c) Discord Username
 
 
 
-### <mark style="color:yellow;">How to connect to Hemi (Septolia) testnet chain</mark>
+### <mark style="color:yellow;">\[2] How to connect to Hemi (Septolia) testnet chain</mark>
 
 **How to change to Hemi Testnet Blockchahin**&#x20;
 
-Follow link or add 'Hemi Sepolia' manually to your wallet. [https://chainlist.org/chain/743111](https://chainlist.org/chain/743111)&#x20;
+Follow the link or manually add '<mark style="color:yellow;">Hemi Sepolia</mark>' to your wallet. [https://chainlist.org/chain/743111](https://chainlist.org/chain/743111)&#x20;
 
 Network Name: Hemi Sepolia&#x20;
 
@@ -58,9 +58,17 @@ Block explorer URL (Optional) [https://testnet.explorer.hemi.xyz/](https://testn
 
 
 
+### <mark style="color:yellow;">\[3] "</mark>_<mark style="color:yellow;">Could not complete your verification due to a duplicate enrollment</mark>_<mark style="color:yellow;">"</mark>
+
+When attempting to enroll, if presented with the following message ‘_<mark style="color:yellow;">Could not complete your verification due to a duplicate enrollment</mark>_’ and the image below, the system has detected a different person who has attempted to enroll on the wallet previously.
+
+&#x20;To explain further, if <mark style="color:blue;">\[Person 1]</mark> attempts to enrol on <mark style="color:green;">\[Wallet 1]</mark> it fails due to environmental conditions, such as lighting conditions, face positioning, etc. If <mark style="color:blue;">\[Person 1]</mark> fails enrollment and <mark style="color:purple;">\[person 2]</mark> attempts to enrol on <mark style="color:green;">\[Wallet 1</mark>], this will fail on <mark style="color:green;">\[Wallet 1]</mark>. Please contact support@demos.global for advise.\
+\
+![](<../../.gitbook/assets/image (5).png>)
+
 ### <mark style="color:yellow;">**Enrollment logic and policies**</mark>
 
-1. Basic principle of the Demos solution.
+1. The basic principle of the Demos solution.
 
 <mark style="color:yellow;">1 WALLET > 1 ENROLLMENT > 1 MEID TOKEN ON HEMI TESTNET PERMITTED</mark>
 
@@ -76,12 +84,12 @@ Block explorer URL (Optional) [https://testnet.explorer.hemi.xyz/](https://testn
 
 &#x20;        \- There are two parts to deleting your profile from Demos
 
-&#x20;                 \--Burn MeID token if minted (3-day timeout) --Delete enrollment (1-day timeout)
+&#x20;                 \--<mark style="color:yellow;">Burn MeID token if minted (3-day timeout) --Delete enrollment (1-day timeout)</mark>
 
-4. When the purge/deletion has been completed, and the person must use another wallet previously tagged as a duplicate, please take a look at point 2.
+4. When the purge/deletion has been completed, and the person must use another wallet previously tagged as a duplicate, please look at point 2 above.
 
 **The DEMOS team must assess any wallet flagged as a duplicate.**
 
 5. **Settings Button:** If the button doesn’t appear, ensure the connected wallet has ETH for transactions.
 6. _Enroll_ button: Users report that the button is unavailable. When a person moves their mouse over it, the button changes to yellow.
-7. The demos development team is working on a solution to address unflagging duplicate warnings after a wallet purge.
+7. The Demo development team is working on a solution to address unflagging duplicate warnings after a wallet purge.
