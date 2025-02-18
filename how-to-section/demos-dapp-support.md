@@ -1,3 +1,9 @@
+---
+description: >-
+  Important to add wallet address otherwise the support team may not be able to
+  assist.
+---
+
 # Demos dApp Support
 
 <mark style="color:yellow;">**Contacting Demos Support**</mark>

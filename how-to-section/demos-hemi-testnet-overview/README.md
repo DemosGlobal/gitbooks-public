@@ -2,9 +2,9 @@
 description: https://points.absinthe.network/hemi
 ---
 
-# Demos / Hemi Testnet Overview
+# Demos / Hemi Overview
 
-Questions continue to be raised on why wallet owners require a re-verification.
+Addressing questions raised on why wallet owners require a re-verification.
 
 There are two parts to the Demos Enrollment process
 
@@ -24,7 +24,7 @@ There are two parts to the Demos Enrollment process
 
 \-          Last active timestamp on-chain.
 
-Snapshot voting | Confidence: The wallets contributing to votes could be requested to ensure they have updated their on-chain POP before each vote or after a specific period for a continued 1 person 1 wallet trust.
+Snapshot voting | Confidence: The wallets contributing to votes could be requested to ensure they have updated their on-chain POP before each vote or after a specific period for a continued 1-person 1 wallet trust.
 
 \-          Additional user cases detailed here: [https://docs.demos.global/onlymeid/overview/use-cases](../../onlymeid/overview/use-cases.md)
 
@@ -69,6 +69,8 @@ Furthermore, on occasions, traffic patterns indicate a high volume of users enro
 If issues are experienced when accessing Demos Website ie RPC errors please check the status of the Hemi Services.
 
 {% embed url="https://hemistatus.com/en" %}
+
+{% embed url="https://hemistatus.com/en/maintenance" %}
 
 <mark style="color:orange;">**Hemi Twitter (X) Account**</mark>
 
