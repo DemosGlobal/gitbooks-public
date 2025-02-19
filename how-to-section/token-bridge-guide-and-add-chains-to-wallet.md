@@ -32,7 +32,7 @@ _Examples_
 
 {% embed url="https://app.rubic.exchange/?fromChain=ETH&toChain=BLAST&from=ETH&to=ETH" %}
 
-#### ![](<../.gitbook/assets/image (1) (1).png>)
+#### ![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 #### <mark style="color:yellow;">**ETH > Matic token \[Swap & Bridge]**</mark>
 
@@ -48,7 +48,7 @@ Swap ETH to Matic via ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 Swap USDC to Matic with a ‘bridge & swap’ from ETH Mainnet to Polygon Mainnet
 {% endembed %}
 
-### ![](<../.gitbook/assets/image (2) (1).png>)
+### ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 #### <mark style="color:yellow;">**ETH Mainnet > Base Mainnet**</mark>
 
@@ -60,7 +60,7 @@ _Examples_
 URL for ETH mainnet to ETH on Base Mainnet conversion
 {% endembed %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>ETH Mainnet to Base Mainnet</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>ETH Mainnet to Base Mainnet</p></figcaption></figure></div>
 
 ### Additional DEX
 
@@ -87,7 +87,7 @@ Recommend choosing the following “RPC Server Address”.
 
 [https://rpc.blast.io](https://rpc.blast.io)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Option to choose <a href="https://rpc.blast.io">https://rpc.blast.io</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Option to choose <a href="https://rpc.blast.io">https://rpc.blast.io</a></p></figcaption></figure>
 
 ### Polygon Mainnet
 

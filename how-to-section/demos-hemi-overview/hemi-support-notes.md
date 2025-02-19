@@ -4,8 +4,6 @@ description: Details of issues raised by Discord Users
 
 # Hemi Support Notes
 
-###
-
 ### <mark style="color:yellow;">High level Overview</mark>
 
 Deleting your enrollment and burning your token will provide the following.&#x20;
@@ -64,8 +62,8 @@ When steps 1, 2, and 3 are complete, anyone with access to that wallet can enrol
 
 ### <mark style="color:yellow;">How to connect to Hemi BlockChain</mark>
 
-{% content-ref url="../how-to-connect-to-hemi-blockchain.md" %}
-[how-to-connect-to-hemi-blockchain.md](../how-to-connect-to-hemi-blockchain.md)
+{% content-ref url="how-to-connect-to-hemi-blockchain.md" %}
+[how-to-connect-to-hemi-blockchain.md](how-to-connect-to-hemi-blockchain.md)
 {% endcontent-ref %}
 
 
