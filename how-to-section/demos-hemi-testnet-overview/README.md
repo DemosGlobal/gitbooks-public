@@ -6,7 +6,7 @@ description: https://points.absinthe.network/hemi
 
 Addressing questions raised on why wallet owners require a re-verification.
 
-There are two parts to the Demos Enrollment process
+There are three parts to the Demos Enrollment process
 
 1\)      <mark style="color:yellow;">**Proof of Existence**</mark> | Enroll your wallet and identity through sign-up (off-chain)
 
