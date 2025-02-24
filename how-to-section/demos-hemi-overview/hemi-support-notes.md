@@ -8,7 +8,7 @@ description: Details of issues raised by Discord Users
 
 Deleting your enrollment and burning your token will provide the following.&#x20;
 
-<mark style="color:yellow;">**\[1st Stage]**</mark> Delete MeID Token on all chains | From 3 days of enrolling, a wallet can firstly ‘burn’ or delete their MEID token 1st. The token was minted with a face after enrollment. **{Warning , 3 day timout to burn a MeID token}**&#x20;
+<mark style="color:yellow;">**\[1st Stage]**</mark> Delete MeID Token on all chains | From 3 days of enrolling, a wallet can firstly ‘burn’ or delete their MEID token 1st. The token was minted with a face after enrollment. **{Warning , the MeID token needs to be older than 3 days to burn the token, therefore if the age of the token is less than 3 days a timer will appear}**&#x20;
 
 <mark style="color:yellow;">**\[2nd Stage]**</mark> Delete MeID Enrollment | After the MEID Token has been deleted, there will be an option to burn/delete the MEID enrollment associated with the wallet. The option to delete the MEID Enrollment will only appear once the MeID token is deleted. **Important to note**: If you have minted a MeID token on other chains, e.g., Polygon, you will need to burn the token on those chains, too. Switching to other chains is available on the page.&#x20;
 

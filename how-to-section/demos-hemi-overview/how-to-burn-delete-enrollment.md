@@ -16,7 +16,7 @@ b) Connect the wallet that was enrolled {Onboarded}&#x20;
 
 c) Go to the ‘_<mark style="color:yellow;">**settings**</mark>_’ button and click on ‘_<mark style="color:yellow;">**Burn MeID**</mark>_’, where you will be prompted for a confirmation that you wish to delete your MeID Enrollment (step 1) . Click on ‘_<mark style="color:yellow;">**Yes, burn my token**</mark>_’. From here your wallet will prompt the person to sign a message authorising the transaction to burn enrollment.&#x20;
 
-<mark style="color:orange;">**if ‘settings’ are not available, clear cookies and cache or try a different browser \[Important to note, there is a 3-day Timeout on burning the token at the contract level}**</mark>&#x20;
+<mark style="color:purple;">**if ‘settings’ are not available, clear cookies and cache or try a different browser \[Important to note,**</mark>**&#x20;T**<mark style="color:purple;">**he MeID token needs to be older than 3 days to burn the token, therefore if the age of the token is less than 3 days a timer will appear}**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on 'Settings'</p></figcaption></figure>
 
