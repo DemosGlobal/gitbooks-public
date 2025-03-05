@@ -26,6 +26,7 @@
     * [Biometric Authentication](onlymeid/technical-documentation/biometric-authentication.md)
     * [On-Chain Implementation](onlymeid/technical-documentation/on-chain-implementation.md)
     * [Smart Contract Parameters](onlymeid/technical-documentation/smart-contract-parameters.md)
+    * [🔧 UI Release notes](onlymeid/technical-documentation/ui-release-notes.md)
   * [📝 Overview](onlymeid/overview/README.md)
     * [Introduction](onlymeid/overview/introduction.md)
     * [Functionality](onlymeid/overview/functionality.md)
