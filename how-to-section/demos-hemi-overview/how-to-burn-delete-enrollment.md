@@ -1,12 +1,14 @@
 ---
-description: Details on how burn MEID token and delete enrollment (2 parts)
+description: >-
+  Details on how burn MEID token and delete enrollment (2 parts) including how
+  to change wallets
 ---
 
-# How to burn/delete enrollment
+# 🔥 How to burn/delete enrollment
 
-### <mark style="color:yellow;">Steps to burn/delete your enrollment & MEID token</mark>
+### <mark style="color:yellow;">Steps to change/burn/delete your enrollment & MEID token</mark>
 
-Prior Checks: **Ensure the wallet has testnet ETH available in wallet to burn MeID token**&#x20;
+Prior Checks: **Ensure the wallet has ETH available in wallet to burn MeID token**&#x20;
 
 a) Go to url [https://app.demos.global/dashboard/hemi](https://app.demos.global/dashboard/hemitest)
 
@@ -16,7 +18,7 @@ b) Connect the wallet that was enrolled {Onboarded}&#x20;
 
 c) Go to the ‘_<mark style="color:yellow;">**settings**</mark>_’ button and click on ‘_<mark style="color:yellow;">**Burn MeID**</mark>_’, where you will be prompted for a confirmation that you wish to delete your MeID Enrollment (step 1) . Click on ‘_<mark style="color:yellow;">**Yes, burn my token**</mark>_’. From here your wallet will prompt the person to sign a message authorising the transaction to burn enrollment.&#x20;
 
-<mark style="color:purple;">**if ‘settings’ are not available, clear cookies and cache or try a different browser \[Important to note,**</mark>**&#x20;T**<mark style="color:purple;">**he MeID token needs to be older than 3 days to burn the token, therefore if the age of the token is less than 3 days a timer will appear}**</mark>&#x20;
+<mark style="color:purple;">**if ‘settings’ are not available, clear cookies and cache or try a different browser \[Important to note,**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**The MeID token needs to be older than 3 days to burn the token; therefore if the age of the token is less than 3 days a timer will appear}**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on 'Settings'</p></figcaption></figure>
 
@@ -34,5 +36,5 @@ f) <mark style="color:red;">**IMPORTANT**</mark>**:** A timeout will appear conf
 
 
 
-<mark style="color:yellow;">IMPORTANT NOTE : once the wallet enrolment has been deleted after the 7-day timeout, the person can attempt to enroll on another wallet. If a wallet was tagged as a duplicate, if the person successfully enrolls on that wallet, the message will disappear. If the person has attempted to enroll on another wallet the message will continue to display.</mark>
+<mark style="color:yellow;">IMPORTANT NOTE</mark>: <mark style="color:yellow;">Once the 7-day wallet enrollment timeout is over, the person can attempt to enroll in another wallet. If a wallet was tagged as a duplicate, if the person successfully enrolls in that wallet, the message will disappear. If the person has attempted to enroll in another wallet, the message will continue to display.</mark>
 

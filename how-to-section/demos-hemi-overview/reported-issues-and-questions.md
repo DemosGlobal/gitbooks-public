@@ -2,7 +2,17 @@
 description: Issues reported with feedback
 ---
 
-# Reported issues
+# 🆘 Reported issues & Questions
+
+{% stepper %}
+{% step %}
+### [#id-1-enrollment-failed-due-to-a-multiple-persons-associated-to-wallet](reported-issues-and-questions.md#id-1-enrollment-failed-due-to-a-multiple-persons-associated-to-wallet "mention")
+{% endstep %}
+
+{% step %}
+### [#id-2-duplicate-wallet-warning](reported-issues-and-questions.md#id-2-duplicate-wallet-warning "mention")
+{% endstep %}
+{% endstepper %}
 
 ### _<mark style="color:yellow;">#1 Enrollment failed due to a multiple persons associated to wallet.</mark>_
 
@@ -29,10 +39,12 @@ If the following error is displayed the Demos system has dectected a person is a
 
 #### <mark style="color:yellow;">Mainnet feature changes</mark>&#x20;
 
-Previously when a wallet was detected as a duplicate the '<mark style="color:yellow;">enroll</mark>' button was disabled therefore required Demos team to address.\
-New feature willl allow a wallet owner to purge their MeID token, the biometric enrollment and change wallets which may have been tagged as a duplicate.
+Previously, when a wallet was detected as a duplicate, the '<mark style="color:yellow;">enroll</mark>' button was disabled therefore required Demos team to address.\
+New feature will allow a wallet owner to purge their MeID token, the biometric enrollment and change wallets that may have been tagged as a duplicate.
 
-Revised changes will allow a previously disabled wallet to allow a user to attempt to enroll after a wallet is displaying an error. On success if that person is not detected in the system the person will be 'onboarded' onto the wallet with the removal of the error message.\
+Revised changes will allow a previously disabled wallet to allow a user to attempt to enroll after a wallet is displaying an error. On success if that person is not detected in the system,
+
+&#x20;the person will be 'onboarded' onto the wallet with the removal of the error message.\
 \
 <mark style="color:yellow;">**Important note :**</mark> 1 WALLET > 1 ENROLLMENT > 1 MEID TOKEN ON HEMI PERMITTED
 
@@ -86,3 +98,11 @@ If a person is unfortunate to have their wallet hacked, they will still have acc
 &#x20;If people are experiencing issues connecting Metamask to the Demos website, we recommend using other supported wallets that can use 'Wallet Connect', Rabby, OKX, etc.; all are supported. Metamask deployed changes in December, which have affected its stability.
 
 **We are not advising** users to create a new wallet address; they can import their private keys into other supported wallets and connect via ‘Wallet Connect’
+
+## Common Questions
+
+<mark style="color:yellow;">#Why do I see a 'verify' option on the UI, I have a MEID token and enrolled.</mark>
+
+Response: _Verification is an option for continued confidence of wallet ownership for points and campaign validation. On success, a verify a small gas charged is required to provide an on-chain timestamp of the last verify timestamp._\
+_Please refer to the following article for additional information._
+
