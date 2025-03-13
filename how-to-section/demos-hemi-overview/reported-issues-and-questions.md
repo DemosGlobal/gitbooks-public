@@ -4,16 +4,6 @@ description: Issues reported with feedback
 
 # 🆘 Reported issues & Questions
 
-{% stepper %}
-{% step %}
-### [#id-1-enrollment-failed-due-to-a-multiple-persons-associated-to-wallet](reported-issues-and-questions.md#id-1-enrollment-failed-due-to-a-multiple-persons-associated-to-wallet "mention")
-{% endstep %}
-
-{% step %}
-### [#id-2-duplicate-wallet-warning](reported-issues-and-questions.md#id-2-duplicate-wallet-warning "mention")
-{% endstep %}
-{% endstepper %}
-
 ### _<mark style="color:yellow;">#1 Enrollment failed due to a multiple persons associated to wallet.</mark>_
 
 _<mark style="color:yellow;">**Error**</mark>**&#x20;**<mark style="color:red;">**'Could not complete your verification due to a duplicate enrollment'**</mark>_
@@ -62,17 +52,17 @@ Once <mark style="color:yellow;">\[Person 1]</mark> has cleaned up <mark style="
 
 "_<mark style="color:red;">Our records show that the biometrics associated with the connected wallet are already enrolled on a different wallet. If the biometrics have been deleted and you wish to switch wallets, a successful enrollment will clear the error message. However, if you have attempted to enroll on multiple wallets, there is a risk that the warning may not resolve</mark>_<mark style="color:red;">.</mark>"
 
->
->
-> ### <mark style="color:yellow;">#3 RPC Errors</mark>&#x20;
->
-> If users experience RPC errors they will be typically related to the blockchain therefore out of the control of Demos.&#x20;
->
-> \
-> <mark style="color:purple;">**Recommend checking the following Hemi Network status also**</mark>\
-> [https://hemistatus.com/en](https://hemistatus.com/en)
->
-> [https://hemistatus.com/en/maintenance](https://hemistatus.com/en/maintenance)
+### <mark style="color:yellow;">#3 RPC Errors</mark>&#x20;
+
+If users experience RPC errors they will be typically related to the blockchain therefore out of the control of Demos.&#x20;
+
+\
+<mark style="color:purple;">**Recommend checking the following Hemi Network status also**</mark>\
+[https://hemistatus.com/en](https://hemistatus.com/en)
+
+[https://hemistatus.com/en/maintenance](https://hemistatus.com/en/maintenance)
+
+
 
 ***
 
@@ -101,8 +91,12 @@ If a person is unfortunate to have their wallet hacked, they will still have acc
 
 ## Common Questions
 
-<mark style="color:yellow;">#Why do I see a 'verify' option on the UI, I have a MEID token and enrolled.</mark>
+<mark style="color:yellow;">**Q1 : Why do I see a 'verify' option on the UI, I have a MEID token and enrolled.**</mark>
 
 Response: _Verification is an option for continued confidence of wallet ownership for points and campaign validation. On success, a verify a small gas charged is required to provide an on-chain timestamp of the last verify timestamp._\
 _Please refer to the following article for additional information._
+
+<mark style="color:yellow;">**Q2 : Do I pay gas for a failed verify ?**</mark>
+
+Response: Wallets is only charged a fee on a successful verify which will result on an onchain timestamp including an update to the UI.
 
