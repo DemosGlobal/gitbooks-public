@@ -50,7 +50,7 @@
     * [🆘 Reported issues & Questions](how-to-section/demos-hemi-overview/reported-issues-and-questions.md)
     * [🔥 How to burn/delete enrollment](how-to-section/demos-hemi-overview/how-to-burn-delete-enrollment.md)
     * [Enrollment Status explained](how-to-section/demos-hemi-overview/enrollment-status-explained.md)
-  * [💲 Mint / Verify FAQ](how-to-section/mint-verify-faq.md)
+    * [💲 Mint / Verify FAQ](how-to-section/demos-hemi-overview/mint-verify-faq.md)
 * [✨Hiring @ Demos✨](hiring-demos/README.md)
   * [📝Social Liaison Content Manager](hiring-demos/social-liaison-content-manager.md)
   * [📡Business Development Associate](hiring-demos/business-development-associate.md)
