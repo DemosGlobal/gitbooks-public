@@ -42,6 +42,7 @@
 * [⚙️How to Section](how-to-section/README.md)
   * [OnlyMeID Enrollment Process](how-to-section/onlymeid-enrollment-process/README.md)
     * [Enrollment URL](https://app.demos.global)
+    * [💲 Mint / Verify FAQ](how-to-section/onlymeid-enrollment-process/mint-verify-faq.md)
   * [Token Bridge Guide & Add Chains to Wallet](how-to-section/token-bridge-guide-and-add-chains-to-wallet.md)
   * [Demos dApp Support](how-to-section/demos-dapp-support.md)
   * [Demos / Hemi Overview](how-to-section/demos-hemi-testnet-overview/README.md)
