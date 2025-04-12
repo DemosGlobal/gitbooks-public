@@ -44,13 +44,21 @@ To explain further, if <mark style="color:yellow;background-color:yellow;">\[Per
 
 If <mark style="color:yellow;">**\[Person 1]**</mark> attempts to enroll on <mark style="background-color:orange;">\[Wallet 2]</mark> as that person is already onboarded in the Demos system <mark style="background-color:orange;">\[Wallet 2]</mark> will detect and display an error message.
 
-If <mark style="color:yellow;background-color:yellow;">\[Person 1]</mark> wishes to change wallets, there is a procedure which can be followed to clean their enrolled wallet in order to allow a user to change wallets. The process will change status to 'not onboarded' and burn MeID tokens as part of the process. Process [Link](how-to-burn-delete-enrollment.md)
+If <mark style="color:yellow;background-color:yellow;">\[Person 1]</mark> wishes to change wallets, there is a procedure which can be followed to clean their enrolled wallet in order to allow a user to change wallets. The process will change the status to 'not onboarded' and burn MeID tokens. Process [Link](how-to-burn-delete-enrollment.md)
 
-Once <mark style="color:yellow;">\[Person 1]</mark> has cleaned up <mark style="background-color:orange;">\[Wallet 1]</mark>, the person can attempt to enroll on another <mark style="color:yellow;">\[Wallet 2]</mark> including a wallet which was tagged as a duplicate.
+Once <mark style="color:yellow;">\[Person 1]</mark> has cleaned up <mark style="background-color:orange;">\[Wallet 1]</mark>, the person can attempt to enroll in another \[Wallet 2], including a duplicate wallet.
 
-<mark style="color:yellow;">**Important Note :**</mark> If a person has cleaned up a wallet and continues to see the following error message the system has detected an attempt from that person in the system on another wallet. Or the purge/delete process has not completed.
+<mark style="color:yellow;">**Important Note 1 :**</mark> If a person has cleaned up a wallet and continues to see the following error message, the system has detected an attempt from that person in the system on another wallet. Or the purge/delete process has not been completed.
 
 "_<mark style="color:red;">Our records show that the biometrics associated with the connected wallet are already enrolled on a different wallet. If the biometrics have been deleted and you wish to switch wallets, a successful enrollment will clear the error message. However, if you have attempted to enroll on multiple wallets, there is a risk that the warning may not resolve</mark>_<mark style="color:red;">.</mark>"
+
+<mark style="color:yellow;">**Important Note 2 :**</mark> If a person has decided to change wallets, the following points apply
+
+a) To burn and delete an account the process can take up to 10 days (3 days + 7 Days)
+
+b) While the burn and delete is in process a person is unable to enroll on another wallet as an account still exists in the system and will prompt errors.
+
+c) After the 10 days errors on a conflicting wallet will not automatically disappear. If the process to delete an enrollment is complete, the person can return to another wallet which has duplicate warnings and and attempt to enroll again. On success, the errors will be removed. If there errors still exist, reference the above point <mark style="color:yellow;">**Important Note 1 :**</mark>&#x20;
 
 ### <mark style="color:yellow;">#3 RPC Errors</mark>&#x20;
 
@@ -73,6 +81,14 @@ Modifications have been deployed on the Demos infrastructure to address issues r
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+#### <mark style="color:yellow;">Recommendations</mark>
+
+<mark style="color:yellow;">if the above errors are experienced, please attempt the following</mark>
+
+* Attempt to access via another browser
+* Attempt to access with another device ie Mobile phone or another laptop
+* Clear cookies and cache on browser
+
 ### <mark style="color:yellow;">#5 My wallet has been hacked and require to change wallets</mark>
 
 If a person is unfortunate to have their wallet hacked, they will still have access to their wallet to purge their enrollment. The Instructions can be follwed below
@@ -80,8 +96,6 @@ If a person is unfortunate to have their wallet hacked, they will still have acc
 {% content-ref url="how-to-burn-delete-enrollment.md" %}
 [how-to-burn-delete-enrollment.md](how-to-burn-delete-enrollment.md)
 {% endcontent-ref %}
-
-
 
 ### <mark style="color:yellow;">#6 \[Wallet connection Errors]</mark>
 
@@ -98,5 +112,5 @@ _Please refer to the following article for additional information._
 
 <mark style="color:yellow;">**Q2 : Do I pay gas for a failed verify ?**</mark>
 
-Response: Wallets is only charged a fee on a successful verify which will result on an onchain timestamp including an update to the UI.
+Response: Wallets is only charged a fee on a <mark style="color:green;">successful</mark> verify which will result on an onchain timestamp including an update to the UI. The 'verify' option isn't available for wallet that doesn't have succifficient gas in their wallet, a warning will be displayed.
 
