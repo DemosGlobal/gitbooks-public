@@ -8,6 +8,11 @@ description: >-
 
 ### <mark style="color:yellow;">Steps to change/burn/delete your enrollment & MEID token</mark>
 
+#### Change wallet timeline |  \[3 / 7 days]
+
+* Burn MeID token | Token can be burned after <mark style="color:yellow;">**3 days**</mark> of minting, if token already 3 days old, token can be burned immediately&#x20;
+* Delete Enrollment | After MeID token has been burned, the request to delete the account can be made. The process will count down over <mark style="color:yellow;">**7 days**</mark>. On 8th day the person must return to delete the enrollment as per the instructions below.
+
 #### IMPORTANT NOTE: <mark style="color:green;">To follow the process of changing wallets, the wallet must have minted a MEID Token. If a person has just enrolled without minting a MEID token, the process can not be followed; therefore</mark>, <mark style="color:green;">minting a MEID is always required to change wallets.</mark>&#x20;
 
 _In summary If enrolled but not minted, mint a MEID token, follow steps below <mark style="color:yellow;">noting a MEID token has to exist for at least 3 days before burning</mark>._
