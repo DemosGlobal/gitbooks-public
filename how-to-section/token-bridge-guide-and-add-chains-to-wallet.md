@@ -8,17 +8,34 @@ description: Quick guide on how to bridge tokens and add network chains
 
 ### Demos currently supports.
 
+* Hemi Mainnet
 * Polygon Mainnet
 * Blast Mainnet
 * Base Mainnet
-
-
 
 ## **Platforms to use for bridging.**
 
 The following Dex (Decentralized Exchanges) can be used to swap tokens with a swap & bridge to other chain options.
 
-### Rubic Exchange
+### <mark style="color:yellow;">Hemi Mainnet Tunnel</mark>
+
+[Tunnel Link](https://app.hemi.xyz/en/tunnel/?networkType=mainnet)
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:yellow;">Stargate</mark>
+
+[Stargate Bridge](https://stargate.finance/bridge?srcChain=ethereum\&dstChain=hemi)
+
+### <mark style="color:yellow;">Free Tunnel</mark>
+
+[Free Tunnel](https://tunnel.free.tech/)
+
+### <mark style="color:yellow;">Meson Finance</mark>
+
+[Meson Bridge](https://meson.fi/swap)
+
+### <mark style="color:yellow;">Rubic Exchange</mark>
 
 [https://app.rubic.exchange/](https://app.rubic.exchange/)
 

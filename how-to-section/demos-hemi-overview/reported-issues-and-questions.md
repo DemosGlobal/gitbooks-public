@@ -27,7 +27,7 @@ If the following error is displayed the Demos system has dectected a person is a
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p><br>Example of a wallet which has detected multiple enrollments</p></figcaption></figure>
 
-#### <mark style="color:yellow;">Mainnet feature changes</mark>&#x20;
+## <mark style="color:yellow;">Hemi Mainnet Feature Changes</mark>
 
 Previously, when a wallet was detected as a duplicate, the '<mark style="color:yellow;">enroll</mark>' button was disabled therefore required Demos team to address.\
 New feature will allow a wallet owner to purge their MeID token, the biometric enrollment and change wallets that may have been tagged as a duplicate.
@@ -76,8 +76,14 @@ If users experience RPC errors they will be typically related to the blockchain 
 
 ### <mark style="color:yellow;">#4 Request failed—TypeError’</mark>
 
-These errors could be from either the blockchain or a person repeatedly hitting refresh in their browser. This would result in a large number of requests being sent that are blocked due to security rate controls. I recommend using a different browser or attempting to use another time.\
-Modifications have been deployed on the Demos infrastructure to address issues related to the error below.
+These errors could be generated from a number of factors, for which Demos can only provide information to assist with the issue. Demos doesn't support client side issues.
+
+* Poor internet connection
+* The blockchain
+* Browser configuration
+* Wallet configuration.
+* Repeatedly hitting (F5) refresh in their browser. This would result in a large number of requests being sent that are blocked due to security rate controls. I recommend using a different browser or attempting to use another time.\
+
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,9 +91,19 @@ Modifications have been deployed on the Demos infrastructure to address issues r
 
 <mark style="color:yellow;">if the above errors are experienced, please attempt the following</mark>
 
-* Attempt to access via another browser
-* Attempt to access with another device ie Mobile phone or another laptop
-* Clear cookies and cache on browser
+1\.      Try a different hardware device, PC, or Mobile Phone.
+
+2\.      Clear cookies and Cache in the browser
+
+3\.      Try a different browser, Edge, Brave, Chrome
+
+4\.      Open a browser in a private window and allow the wallet in the private window.
+
+5\.      [Confirm wallet is connected to the correct Blockchain ie Hemi](how-to-connect-to-hemi-blockchain.md)
+
+6\.      Try a VPN (Virtual Private Network)
+
+
 
 ### <mark style="color:yellow;">#5 My wallet has been hacked and require to change wallets</mark>
 
