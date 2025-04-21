@@ -76,7 +76,11 @@ If users experience RPC errors they will be typically related to the blockchain 
 
 ### <mark style="color:yellow;">#4 Request failed—TypeError’</mark>
 
-These errors could be generated from a number of factors, for which Demos can only provide information to assist with the issue. Demos doesn't support client side issues.
+These errors could be generated from a number of factors, for which Demos can only provide information to assist with the issue.&#x20;
+
+<mark style="color:yellow;">A refresh of the browser page fixes under most circumstances.</mark>
+
+Demos doesn't support client side issues.
 
 * Poor internet connection
 * The blockchain
@@ -91,23 +95,23 @@ These errors could be generated from a number of factors, for which Demos can on
 
 <mark style="color:yellow;">if the above errors are experienced, please attempt the following</mark>
 
-1\.      Try a different hardware device, PC, or Mobile Phone.
+1\.      Hard refresh the browser page, click F5 or CTRL + F5.
 
 2\.      Clear cookies and Cache in the browser
 
 3\.      Try a different browser, Edge, Brave, Chrome
 
-4\.      Open a browser in a private window and allow the wallet in the private window.
+4\.      Open a browser in a private window, allow 1 wallet in the private window, no other extensions enabled.
 
 5\.      [Confirm wallet is connected to the correct Blockchain ie Hemi](how-to-connect-to-hemi-blockchain.md)
 
 6\.      Try a VPN (Virtual Private Network)
 
+7\.      Try a different hardware device, PC, or Mobile Phone.
 
+### <mark style="color:yellow;">#5 My wallet has been hacked and requires to change wallets</mark>
 
-### <mark style="color:yellow;">#5 My wallet has been hacked and require to change wallets</mark>
-
-If a person is unfortunate to have their wallet hacked, they will still have access to their wallet to purge their enrollment. The Instructions can be follwed below
+If a person is unfortunate to have their wallet hacked, they will still have access to their wallet to purge their enrollment. The Instructions can be followed below
 
 {% content-ref url="how-to-burn-delete-enrollment.md" %}
 [how-to-burn-delete-enrollment.md](how-to-burn-delete-enrollment.md)
@@ -128,5 +132,10 @@ _Please refer to the following article for additional information._
 
 <mark style="color:yellow;">**Q2 : Do I pay gas for a failed verify ?**</mark>
 
-Response: Wallets is only charged a fee on a <mark style="color:green;">successful</mark> verify which will result on an onchain timestamp including an update to the UI. The 'verify' option isn't available for wallet that doesn't have succifficient gas in their wallet, a warning will be displayed.
+Response: Wallets are only charged a fee on a successful verify, which results in an on-chain timestamp and an update to the UI. The 'verify' option isn't available for wallets that don't have sufficient gas will will be displayed.\
+
+
+{% file src="../../.gitbook/assets/Balance_Verify.mp4" %}
+Video Clip displaying low gas
+{% endfile %}
 
