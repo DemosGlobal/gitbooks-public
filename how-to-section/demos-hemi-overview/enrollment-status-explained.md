@@ -2,7 +2,7 @@
 description: Information detailing the status of an enrollment on Demos Website
 ---
 
-# Demos Enrollment Status
+# Enrollment Status explained
 
 ### <mark style="color:purple;">Demos dApp URL</mark> [<mark style="color:purple;">https://app.demos.global/</mark>](https://app.demos.global/)
 
@@ -16,7 +16,7 @@ The screenshot highlights the connected wallet is <mark style="color:yellow;">NO
 
 Screenshot highlights the connected wallet is enrolled {onboarded} and <mark style="color:yellow;">NOT</mark> minted a MeID token on the Hemi Blockchain
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:yellow;">\[3] STATUS | Enrolled \[Onboarded] | Minted a MeID</mark>
 

@@ -89,7 +89,7 @@ Demos doesn't support client side issues.
 * Repeatedly hitting (F5) refresh in their browser. This would result in a large number of requests being sent that are blocked due to security rate controls. I recommend using a different browser or attempting to use another time.\
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:yellow;">Recommendations</mark>
 
